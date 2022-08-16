@@ -1,6 +1,6 @@
 # Racial Bias Analysis
 ## By: Omeed Tehrani
-### Inspired by "Safe and Ethical Artificial Intelligence"
+Inspired by "Safe and Ethical Artificial Intelligence"
 
 ## For a recruiter, student, or anyone reading: you're likely wondering... what is COMPAS?
 
